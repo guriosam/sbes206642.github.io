@@ -25,12 +25,12 @@ title: Revealing the Social Aspects of Design Decay
 
 # RQ2: To what extent the communication dynamics influence the design decay?
 
-![RQ2](https://github.com/sbes206642/sbes206642.github.io/blob/master/rq2.png)
+![RQ2](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/rq2.png)
 
 # RQ3: To what extent the discussion content influence the design decay?
 
-![RQ3](https://github.com/sbes206642/sbes206642.github.io/blob/master/rq3.png)
+![RQ3](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/rq3.png)
 
 # Model with Both Social Aspects
 
-![both](https://github.com/sbes206642/sbes206642.github.io/blob/master/all_data_tabl.png)
+![both](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/all_data_tabl.png)
