@@ -10,7 +10,7 @@ The pull-based development model, popularized by social coding environments like
 
 | File         | Description       | Link     |
 |:-------------|:------------------|:---------|
-| Design Symptoms Description | DesignateTool and Descriptions | [Download](https://github.com/sbes206642/sbes206642.github.io/blob/master/description_and_detection_mechanisms.zip) |
+| Design Symptoms Description | DesignateTool and Descriptions | [Download](https://github.com/sbes206642/sbes206642.github.io/master/description_and_detection_mechanisms.zip) |
 
 # RQ1: Are social metrics related to design decay?
 
