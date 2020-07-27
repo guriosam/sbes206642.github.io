@@ -86,19 +86,68 @@ Q: Regarding Discussion Length, does it have any impact depending on the number 
 A: We looked into a possible correlation between the #CoreDevs, Discussion Length and #Comments metrics using spearman’s correlation. The results were 0.14 and 0.57, respectively, for the data of all projects combined. 
 
 ### Spearman's Correlation Test between Core Devs and other metrics.
-|                 Metrics         | number_core_devs |
-|---------------------------------|------------------|
-| number_comments                 | 0.57             |
-| number_users                    | 0.14             |
-| number_contributors             | -0.04            |
-| number_core_devs                | 1                |
-| opened_by                       | -0.01            |
-| number_of_patches               | 0.19             |
-| words_in_discussion             | 0.28             |
-| words_per_comment_in_discussion | 0.09             |
-| snippets_size                   | 0.09             |
-| mean_time_between_replies       | 0.08             |
-| discussion_length               | 0.14             |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">number_core_devs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">number_comments</td>
+    <td class="tg-0pky">0.57</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">number_users</td>
+    <td class="tg-0pky">0.14</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">number_contributors</td>
+    <td class="tg-0pky">-0.04</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">number_core_devs</td>
+    <td class="tg-0pky">1</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">opened_by</td>
+    <td class="tg-0pky">-0.01</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">number_of_patches</td>
+    <td class="tg-0pky">0.19</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">words_in_discussion</td>
+    <td class="tg-0pky">0.28</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">words_per_comment_in_discussion</td>
+    <td class="tg-0pky">0.09</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">snippets_size</td>
+    <td class="tg-0pky">0.09</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">mean_time_between_replies</td>
+    <td class="tg-0pky">0.08</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">discussion_length</td>
+    <td class="tg-0pky">0.14</td>
+  </tr>
+</tbody>
+</table>
 
 
 Q: Is it good or bad to have core developers in the discussion? Based on their participation, do we have more discussion (number of words, etc.)? What are the implications?
