@@ -86,13 +86,6 @@ Q: Regarding Discussion Length, does it have any impact depending on the number 
 A: We looked into a possible correlation between the #CoreDevs, Discussion Length and #Comments metrics using spearman’s correlation. The results were 0.14 and 0.57, respectively, for the data of all projects combined. 
 
 ### Spearman's Correlation Test between Core Devs and other metrics.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
