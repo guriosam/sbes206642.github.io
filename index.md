@@ -202,6 +202,7 @@ Q: Why DesigniteJava? Was there any study on false positives and false negatives
 
 A: Although we didn’t assess the accuracy of DesignateJava, previous work [Sharma,EMSE’20] indicated a precision of 96% and a recall of 99%. Moreover, we did analyze the rationale behind each detection strategy used by DesignateJava
 
+## Reviewer 3:
 
 Q: I liked the motivating example; it might be better placed after the Introduction. It is promising, to get a glimpse of the social aspects that will be studied: different participant roles (developers, contributors, and users), and the content of the comments. I wondered: how would the research collect "content" of the discussions? That would require a very burdensome manual analysis. Likewise, I am not sure the commentator's role would be feasible to collect. Is this data available in Github?
 
