@@ -224,7 +224,7 @@ A: We think that our sentence was not clear enough, since that the discussion in
 
 Q: Section 5.3.: has a high number of comments and a high number of words, however. What is the proper threshold for one to consider a discussion too long or a comment too big? It is not clear the thresholds used in the study. Moreover, a discussion on this topic could also help developers on how to behave.
 
-A: 
+A: We do not have any threshold computed. We only based our assertives on the logic of our model. Our response outcome says that 'the far from 1 is our odds ratio (higher indicates increase on the design symptoms and lower indicates the opposite), the bigger the chance of an event to happen'.
 
 
 Q: Why working only with active projects? 
@@ -290,12 +290,12 @@ A: Since we ran a MLR and used control variables, i.e., DiffComplexity and Patch
 
 Q: Page 2: "Github, mainly use the pull request mechanism for code contribution". Is it really the case? Any evidence to support?
 
-A: 
+A: We do not have a strong evidence about it, then, we will change the sentence to a less strong one.
 
 
 Q: Pag 3, "discussion evidence(s) of the existence of multiple concerns being addressed": please make a case for this conclusion.
 
-A: 
+A: Our motivating example is a case for this kind of conclusion.
 
 
 Q: Pag. 7: "These results confirm "...It would be better to say "indicate" or something like it. Avoid "huge"
